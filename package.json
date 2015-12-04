@@ -21,8 +21,7 @@
   "dependencies": {
     "del": "^2.1.0",
     "glob-all": "^3.0.1",
-    "through": "~2.3.4",
-    "underscore": "^1.7.0"
+    "through2": "2.0.0"
   },
   "keywords": [
     "gulp",
