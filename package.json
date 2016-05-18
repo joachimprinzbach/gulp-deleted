@@ -1,14 +1,14 @@
 {
-  "name": "gulp-deleted",
-  "description": "The gulp plugin `gulp-deleted` allows you to remove files from the destination folder which do no exist in the stream",
-  "version": "0.0.2",
+  "name": "gulp-deleted2",
+  "description": "Quickfix the original plugin: The gulp plugin `gulp-deleted` allows you to remove files from the destination folder which do no exist in the stream",
+  "version": "0.0.3",
   "author": {
-    "name": "Oliver Foster",
-    "email": "oliver.foster@kineo.com"
+    "name": "Joachim Prinzbach",
+    "email": "joachim.prinzbach@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/oliverfoster/gulp-deleted.git"
+    "url": "git://github.com/joachimprinzbach/gulp-deleted.git"
   },
   "main": "lib/index.js",
   "engines": {
@@ -16,7 +16,7 @@
   },
   "license": {
     "type": "MIT",
-    "url": "http://github.com/oliverfoster/gulp-deleted/raw/master/LICENSE"
+    "url": "http://github.com/joachimprinzbach/gulp-deleted/raw/master/LICENSE"
   },
   "dependencies": {
     "del": "^2.1.0",
@@ -32,30 +32,24 @@
     "pipe"
   ],
   "bugs": {
-    "url": "https://github.com/oliverfoster/gulp-deleted/issues"
+    "url": "https://github.com/joachimprinzbach/gulp-deleted/issues"
   },
-  "homepage": "https://github.com/oliverfoster/gulp-deleted",
+  "homepage": "https://github.com/joachimprinzbach/gulp-deleted",
   "maintainers": [
     {
-      "name": "oliver.foster",
-      "email": "oliver.foster@kineo.com"
+      "name": "joachimprinzbach",
+      "email": "joachim.prinzbach@zuehlke.com"
     }
   ],
-  "gitHead": "3ee77bef6af21930ecc438e44ea4c62a0ade9a17",
-  "_id": "gulp-deleted@0.0.1",
+  "_id": "gulp-deleted2@0.0.3",
   "scripts": {},
-  "_shasum": "502a94f7fcb7cb78fbc238a53dea572d52efb9d1",
-  "_from": "gulp-deleted@",
+  "_from": "gulp-deleted2@",
   "_npmVersion": "1.4.28",
   "_npmUser": {
-    "name": "oliver.foster",
-    "email": "oliver.foster@kineo.com"
+    "name": "joachimprinzbach",
+    "email": "joachim.prinzbach@zuehlke.com"
   },
-  "dist": {
-    "shasum": "502a94f7fcb7cb78fbc238a53dea572d52efb9d1",
-    "tarball": "http://registry.npmjs.org/gulp-deleted/-/gulp-deleted-0.0.1.tgz"
-  },
+
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/gulp-deleted/-/gulp-deleted-0.0.1.tgz",
   "readme": "ERROR: No README data found!"
 }
